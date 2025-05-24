@@ -30,7 +30,9 @@
 - 📁 Clean folder structure using Vite + React
 
 
+## 📸 Screenshots
 
+*You can add screenshots here later, like:*
 
 ---
 
