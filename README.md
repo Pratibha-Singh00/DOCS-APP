@@ -1,6 +1,6 @@
 # React + Vite
 
-[![Live Site](https://img.shields.io/badge/Live-DOCS--APP-blue?style=for-the-badge)](https://pratibha-singh00.github.io/DOCS-APP/)
+
 
 ## 🚀 Live Demo
 
