@@ -33,8 +33,8 @@
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home Page]
-(https://github.com/Pratibha-Singh00/DOCS-APP/blob/main/screenshot.png)
+![App Screenshot](https://github.com/Pratibha-Singh00/DOCS-APP/blob/main/screenshot.png?raw=true)
+
 ---
 
 ## 🧠 What I Learned
