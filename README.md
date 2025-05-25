@@ -32,8 +32,9 @@
 
 ## 📸 Screenshots
 
-*You can add screenshots here later, like:*
-
+### 🔹 Home Page
+![Home Page]
+(https://github.com/Pratibha-Singh00/DOCS-APP/blob/main/screenshot.png)
 ---
 
 ## 🧠 What I Learned
